@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "eng": "Boolean",
+            "definition": "A data type that only takes two value: true or false"
+        },
+        {
+            "id": 2,
+            "eng": "String",
+            "definition": "Text of word in double quotation"
+        },
+        {
+            "id": 3,
+            "eng": "Strict equal",
+            "definition": "Takes two comparison and checks data type and value"
+        },
+        {
+            "id": 4,
+            "eng": "Conditional statement",
+            "definition": "If a code is ran and it meet requirement 1 then run code 1, else if it meet requirement 2 then run code 2, everything that is not code 1 or 2 then run code 3"
+        },
+        {
+            "id": 5,
+            "eng": "Loop",
+            "definition": "Runs same script ove rand over until it satisfies the requirement set"
+        },
+        {
+            "id": 6,
+            "eng": "Global scope",
+            "definition": "Outside of function and could be called anwhere"
+        },
+        {
+            "id": 7,
+            "eng": "Local scope",
+            "definition": "Inside a function and could only be called within that function"
+        },
+        {
+            "id": 8,
+            "eng": "Built-in-function",
+            "definition": "JavaScript has a set of function that is already pre-made"
+        },
+        {
+            "id": 9,
+            "eng": "NaN",
+            "definition": "Not a Number"
+        },
+        {
+            "id": 10,
+            "eng": "HTML",
+            "definition": "Hyper-Text Markup Language; all text seen on a webpage"
+        }
+    ]
+}
